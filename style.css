@@ -1,0 +1,199 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background: #e3d4d1;
+    font-family: ArialBlack;
+}
+
+.foto-box {
+    position: absolute;
+    top: 75px;
+    left: 300px;
+}
+
+.foto-box img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #ffffff;
+}
+
+.nama {
+    width: 900px;
+    height: 0px;
+    position: relative;
+    left: 700px;
+    top: 100px;
+    font-family: "Open Sans",sans-serif;
+    font-size: 30px;
+}
+.nomor-telepon{
+    width: 200px;
+    height: 60x;
+    position: relative;
+    left: 280px;
+    top: 300px;
+    font-family: "Open Sans",sans-serif;
+    font-size: 10px;
+    border-color: aqua;
+    border: solid 2px;
+    background-color: transparent;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.logo-telepon {
+    position: absolute;
+    top: 365px;
+    left: 315px;
+}
+
+.logo-telepon img {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #ffffff;
+}
+.gmail{
+    width: 250px;
+    height: 50px;
+    position: relative;
+    left: 700px;
+    top: 250px;
+    font-family: "Open Sans",sans-serif;
+    font-size: 10px;
+    border-color: aqua;
+    border: solid 2px;
+    background-color: transparent;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.logo-gmail {
+    position: absolute;
+    top: 365px;
+    left: 727px;
+}
+
+.logo-gmail img {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #ffffff;
+}
+
+.biodata {
+    width: 800px;             
+    border: 2px solid transparent;    
+    border-radius: 10px;       
+    padding: 15px;    
+    position: relative;         
+    top: 300px;          
+    left: 200px;      
+    font-family:"arial",sans-serif;   
+    background-color: transparent; 
+}
+
+.biodata h2 {
+    margin-top: 0;
+    font-size: 23px;
+    text-align: left;
+    font-family:"arial",sans-serif;
+}
+
+.biodata-table {
+    width: 180%;
+    font-size: 20px;
+}
+
+.biodata-table td {
+    padding: 5px 0;
+}
+
+.pendidikan {
+    width: 900px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    padding: 15px;
+    position: relative;
+    top: 350px;
+    left: 200px;
+    font-family:"arial",sans-serif;
+    background-color: transparent;
+}
+
+.pendidikan h2 {
+    margin-top: 0;
+    font-size: 23px;
+    text-align: left;
+    font-family:"arial",sans-serif;
+}
+
+.pendidikan-table {
+    width: 100%;
+    font-size: 20px;
+}
+
+.pendidikan-table td {
+    padding: 5px 0;
+}
+
+.organisasi {
+    width: 900px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    padding: 15px;
+    position: relative;
+    top: 122px;
+    left: 850px;
+    font-family:"arial",sans-serif;
+    background-color: transparent;
+}
+
+.organisasi h2 {
+    margin-top: 0;
+    font-size: 23px;
+    text-align: left;
+    font-family:"arial",sans-serif;
+}
+
+.organisasi-table {
+    width: 100%;
+    font-size: 20px;
+}
+
+.organisasi-table td {
+    padding: 5px 0;
+}
+
+.hobi {
+    width: 900px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    padding: 15px;
+    position: relative;
+    top: 280px;
+    left: 200px;
+    font-family:"arial",sans-serif;
+    background-color: transparent;
+}
+
+.hobi h2 {
+    margin-top: 0;
+    font-size: 23px;
+    text-align: left;
+    font-family:"arial",sans-serif;
+}
+
+.hobi-table {
+    width: 100%;
+    font-size: 20px;
+}
+
+.hobi-table td {
+    padding: 5px 0;
+}
+
